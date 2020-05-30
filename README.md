@@ -1,5 +1,8 @@
 # DRMR_Team8
 Git Flow Repo
 
-#First edit
-## SSH Test
+ - [X] Set up MR
+ - [] Create Repo 
+ - [] Generate SSH Keys
+ - [] Set up DR
+ - [] Create Team logo
