@@ -1,9 +1,5 @@
 # DRMR_Team8 
-## Git Flow Repo Assignment
+## Git Flow Repo Assignment Index 
 
+[Definitions ] (/definitions)
 
- - [X] Set up MR
- - [X] Create Repo 
- - [X] Generate SSH Keys
- - [] **Set up DR**
- - [] **Create Team logo**
