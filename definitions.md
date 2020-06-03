@@ -90,10 +90,20 @@ This will remove the file named "file.txt".
 ## **Show**
 
 Gives some information about the remote.
+
 **Source:** [git reference](https://git-scm.com/docs/git-remote)
 
+Example:
+Issue the command:
 
-**Status**
+git show [<options>] [<object>…​]
+
+The defaul shows the log of "HEAD"
+
+![show example](/images/show_example.PNG)
+
+
+## **Status**
 
 Displays paths that have differences between the index file and the current HEAD commit, 
 paths that have differences between the working tree and the index file, 
