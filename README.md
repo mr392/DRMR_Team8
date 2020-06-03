@@ -1,9 +1,14 @@
 # DRMR_Team8 
-## Git Flow Repo Assignment
+## Git Flow Repo Assignment Index 
 
+To explain the GitFlow we need to define several terms.
 
- - [X] Set up MR
- - [X] Create Repo 
- - [X] Generate SSH Keys
- - [] **Set up DR**
- - [] **Create Team logo**
+- Checkout
+- Push
+- Pull 
+- Remote Add / Remove / Show
+- Status
+- Master Branch
+
+[Definitions ](/definitions.md)
+
