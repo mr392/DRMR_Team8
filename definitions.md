@@ -26,11 +26,10 @@ Pulling a branch means to fetch it and merge it.
 
 # Defintions applicable to remotes
 
-<<<<<<< HEAD
 ## *Add*
-=======
+
 **Add**
->>>>>>> pull_feature
+
 
 Adds a remote named <name> for the repository at <url>. 
 The command git fetch <name> can then be used to create and update remote-tracking branches.
@@ -46,21 +45,18 @@ All remote-tracking branches and configuration settings for the remote are remov
 **Source:** [git reference](https://git-scm.com/docs/git-remote)
 
 
-<<<<<<< HEAD
 ## **Show**
 
 Gives some information about the remote.
 **Source:** [git reference](https://git-scm.com/docs/git-remote)
 
 
-
-=======
 **Status**
 Displays paths that have differences between the index file and the current HEAD commit, 
 paths that have differences between the working tree and the index file, 
 and paths in the working tree that are not tracked by Git
 
 **Source:** [git status](https://git-scm.com/docs/git-status)
->>>>>>> pull_feature
+
 
 [return to index](/README.md)
