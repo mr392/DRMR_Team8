@@ -13,7 +13,7 @@ Issue the command followed by the branch name:
 
 git checkout [<branch>]
 
-![checkout example](/images/checkout_example.png)
+![checkout example](/images/checkout_example.PNG)
 
 
 
