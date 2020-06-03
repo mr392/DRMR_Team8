@@ -61,8 +61,13 @@ The command git fetch <name> can then be used to create and update remote-tracki
 Example: 
 Issue the command:
 
-git add [file name] or git add . [For all items]
-![add example](/images/add_example.PNG)
+git add [file name] or git add "." [For all items]
+
+![add example](/images/add_example_2.PNG)
+
+![add example](/images/add_example_1.PNG)
+
+
 
 
 ## **Remove**
