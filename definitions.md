@@ -34,7 +34,7 @@ Issue the command followed by the branch name:
 
 git push 
 
-![checkout example](/images/checkout_example.PNG)
+![push example](/images/push_example.PNG)
 
 ## **Pull**
 
