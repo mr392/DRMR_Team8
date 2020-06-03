@@ -7,6 +7,16 @@ and updating the index and HEAD if the whole working tree has been pointed at a 
 **Source:** [gitglossary](https://git-scm.com/docs/gitglossary)
 
 
+Example:
+
+Issue the command followed by the branch name:
+
+git checkout [<branch>]
+
+![checkout example](/images/checkout_example.png)
+
+
+
 ## **Push**
 
 Pushing a branch means to get the branch’s head ref from a remote repository, 
