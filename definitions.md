@@ -72,11 +72,18 @@ git add [file name] or git add "." [For all items]
 
 ## **Remove**
 
-Remove the remote named <name>. 
-All remote-tracking branches and configuration settings for the remote are removed.
+Remove the remote named [name]. 
+Removes the named remote-tracking branches and configuration settings.
 
 **Source:** [git reference](https://git-scm.com/docs/git-remote)
 
+
+Example:
+Issue the command:
+
+git rm file.txt
+
+This will remove the file named "file.txt".
 
 ## **Show**
 
