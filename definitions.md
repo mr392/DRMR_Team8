@@ -83,6 +83,8 @@ Issue the command:
 
 git rm file.txt
 
+![remove example](/images/remove_example.PNG)
+
 This will remove the file named "file.txt".
 
 ## **Show**
