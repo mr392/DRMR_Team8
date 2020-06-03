@@ -24,12 +24,12 @@ Pulling a branch means to fetch it and merge it.
 
 **Source:** [gitglossary](https://git-scm.com/docs/gitglossary)
 
-#Defintions apllicable to remotes
+# Defintions apllicable to remotes
 
 *Add*
 
 Adds a remote named <name> for the repository at <url>. 
-The command git fetch <name> can then be used to create and update remote-tracking branches <name>/<branch>.
+The command git fetch <name> can then be used to create and update remote-tracking branches.
 
 **Source:** [git reference](https://git-scm.com/docs/git-remote)
 
@@ -38,6 +38,13 @@ The command git fetch <name> can then be used to create and update remote-tracki
 
 Remove the remote named <name>. 
 All remote-tracking branches and configuration settings for the remote are removed.
+
+**Source:** [git reference](https://git-scm.com/docs/git-remote)
+
+**Show**
+
+Gives some information about the remote.
+**Source:** [git reference](https://git-scm.com/docs/git-remote)
 
 
 [return to index](/README.md)
