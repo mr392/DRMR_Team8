@@ -82,6 +82,7 @@ and paths in the working tree that are not tracked by Git
 **Source:** [git status](https://git-scm.com/docs/git-status)
 
 
+
 ## **Master**
 
 The default development branch. 
@@ -90,4 +91,6 @@ In most cases, this contains the local development, though that is purely by con
 
 **Source:** [gitglossary](https://git-scm.com/docs/gitglossary)
 
+
 [return to index](/README.md)
+
