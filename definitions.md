@@ -53,10 +53,16 @@ Issue the command:
 ## **Add**
 
 
-Adds a remote named <name> for the repository at <url>. 
+Adds a remote named "<name>" for the repository at <url>. 
 The command git fetch <name> can then be used to create and update remote-tracking branches.
 
 **Source:** [git reference](https://git-scm.com/docs/git-remote)
+
+Example: 
+Issue the command:
+
+git add [file name] or git add . [For all items]
+![add example](/images/add_example.PNG)
 
 
 ## **Remove**
