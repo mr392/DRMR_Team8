@@ -98,7 +98,7 @@ Issue the command:
 
 git show [<options>] [<object>…​]
 
-The defaul shows the log of "HEAD"
+The default shows the log of "HEAD"
 
 ![show example](/images/show_example.PNG)
 
@@ -110,6 +110,15 @@ paths that have differences between the working tree and the index file,
 and paths in the working tree that are not tracked by Git
 
 **Source:** [git status](https://git-scm.com/docs/git-status)
+
+
+Example:
+Issue the command:
+
+git status [<options>…​] [--] [<pathspec>…​]
+
+![show example](/images/status_example.PNG)
+
 
 
 
