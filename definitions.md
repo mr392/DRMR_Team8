@@ -7,7 +7,7 @@ and updating the index and HEAD if the whole working tree has been pointed at a 
 **Source:** [gitglossary](https://git-scm.com/docs/gitglossary)
 
 
-[return to index](/README.md)
+
 
 *Push*
 
@@ -18,3 +18,12 @@ into the remote object database, and updating the remote head ref.
 If the remote head is not an ancestor to the local head, the push fails.
 
 **Source:** [gitglossary](https://git-scm.com/docs/gitglossary)
+
+
+*pull*
+
+Pulling a branch means to fetch it and merge it.
+
+
+
+[return to index](/README.md)
