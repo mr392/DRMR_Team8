@@ -1,5 +1,5 @@
 
-*Checkout*
+**Checkout**
 
 The action of updating all or part of the working tree with a tree object or blob from the object database, 
 and updating the index and HEAD if the whole working tree has been pointed at a new branch.
@@ -7,7 +7,7 @@ and updating the index and HEAD if the whole working tree has been pointed at a 
 **Source:** [gitglossary](https://git-scm.com/docs/gitglossary)
 
 
-*Push*
+**Push**
 
 Pushing a branch means to get the branch’s head ref from a remote repository, 
 find out if it is an ancestor to the branch’s local head ref, and in that case, putting all objects, 
@@ -18,7 +18,7 @@ If the remote head is not an ancestor to the local head, the push fails.
 **Source:** [gitglossary](https://git-scm.com/docs/gitglossary)
 
 
-*Pull*
+**Pull**
 
 Pulling a branch means to fetch it and merge it.
 
@@ -26,7 +26,11 @@ Pulling a branch means to fetch it and merge it.
 
 # Defintions applicable to remotes
 
+<<<<<<< HEAD
 ## *Add*
+=======
+**Add**
+>>>>>>> pull_feature
 
 Adds a remote named <name> for the repository at <url>. 
 The command git fetch <name> can then be used to create and update remote-tracking branches.
@@ -42,6 +46,7 @@ All remote-tracking branches and configuration settings for the remote are remov
 **Source:** [git reference](https://git-scm.com/docs/git-remote)
 
 
+<<<<<<< HEAD
 ## **Show**
 
 Gives some information about the remote.
@@ -49,5 +54,13 @@ Gives some information about the remote.
 
 
 
+=======
+**Status**
+Displays paths that have differences between the index file and the current HEAD commit, 
+paths that have differences between the working tree and the index file, 
+and paths in the working tree that are not tracked by Git
+
+**Source:** [git status](https://git-scm.com/docs/git-status)
+>>>>>>> pull_feature
 
 [return to index](/README.md)
