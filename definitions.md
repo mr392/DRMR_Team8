@@ -26,9 +26,7 @@ Pulling a branch means to fetch it and merge it.
 
 # Defintions applicable to remotes
 
-## *Add*
-
-**Add**
+## **Add**
 
 
 Adds a remote named <name> for the repository at <url>. 
@@ -66,6 +64,6 @@ The default development branch.
 Whenever you create a Git repository, a branch named "master" is created, and becomes the active branch. 
 In most cases, this contains the local development, though that is purely by convention and is not required.
 
-
+**Source:** [gitglossary](https://git-scm.com/docs/gitglossary)
 
 [return to index](/README.md)
