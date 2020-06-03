@@ -42,6 +42,12 @@ Pulling a branch means to fetch it and merge it.
 
 **Source:** [gitglossary](https://git-scm.com/docs/gitglossary)
 
+Example: 
+
+Issue the command:
+![pull example](/images/pull_example.PNG)
+
+
 # Defintions applicable to remotes
 
 ## **Add**
