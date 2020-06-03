@@ -117,7 +117,7 @@ Issue the command:
 
 git status [<options>…​] [--] [<pathspec>…​]
 
-![show example](/images/status_example.PNG)
+![status example](/images/status_example.PNG)
 
 
 
@@ -129,6 +129,17 @@ Whenever you create a Git repository, a branch named "master" is created, and be
 In most cases, this contains the local development, though that is purely by convention and is not required.
 
 **Source:** [gitglossary](https://git-scm.com/docs/gitglossary)
+
+Example:
+Issue the command:
+
+git checkout master
+
+to move to the main branch.
+
+![master example](/images/master_example.PNG)
+
+
 
 
 [return to index](/README.md)
