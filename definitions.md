@@ -28,6 +28,14 @@ If the remote head is not an ancestor to the local head, the push fails.
 **Source:** [gitglossary](https://git-scm.com/docs/gitglossary)
 
 
+Example:
+
+Issue the command followed by the branch name:
+
+git push 
+
+![checkout example](/images/checkout_example.PNG)
+
 ## **Pull**
 
 Pulling a branch means to fetch it and merge it.
