@@ -7,8 +7,6 @@ and updating the index and HEAD if the whole working tree has been pointed at a 
 **Source:** [gitglossary](https://git-scm.com/docs/gitglossary)
 
 
-
-
 *Push*
 
 Pushing a branch means to get the branch’s head ref from a remote repository, 
@@ -20,10 +18,20 @@ If the remote head is not an ancestor to the local head, the push fails.
 **Source:** [gitglossary](https://git-scm.com/docs/gitglossary)
 
 
-*pull*
+*Pull*
 
 Pulling a branch means to fetch it and merge it.
 
+**Source:** [gitglossary](https://git-scm.com/docs/gitglossary)
+
+#Defintions apllicable to remotes
+
+*Add*
+
+Adds a remote named <name> for the repository at <url>. 
+The command git fetch <name> can then be used to create and update remote-tracking branches <name>/<branch>.
+
+**Source:** [git reference](https://git-scm.com/docs/git-remote)
 
 
 [return to index](/README.md)
