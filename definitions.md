@@ -34,4 +34,10 @@ The command git fetch <name> can then be used to create and update remote-tracki
 **Source:** [git reference](https://git-scm.com/docs/git-remote)
 
 
+**Remove**
+
+Remove the remote named <name>. 
+All remote-tracking branches and configuration settings for the remote are removed.
+
+
 [return to index](/README.md)
