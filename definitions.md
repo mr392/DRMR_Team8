@@ -8,8 +8,6 @@ Through the use of Git repositories, multiple developers can work on a project a
 
 Example:
 
-![repository example](/)
-
 
 
 ## **Checkout**
