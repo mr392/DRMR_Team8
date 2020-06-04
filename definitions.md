@@ -110,7 +110,7 @@ git status
 
 ![status example](/images/status_example.PNG)
 
-
+ 
 
 
 ## **Master**
