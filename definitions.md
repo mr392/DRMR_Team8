@@ -51,35 +51,29 @@ Issue the command:
 
 ## **Add**
 
-Used to manage a set of remote repositories. Can be used to list the URL's of of the remote repositories.  
-
+Used to add the origin of a git repository after specifying the URL 
 
 **Source:** [git reference](https://git-scm.com/docs/git-remote)
 
 Example: 
 Issue the command:
 
-git remote -v 
+git remote add origin "https://github.com/user/repo.git" 
 
-![Remote add example](/images/remote_add.png)
-
-
-
-
-
+![Remote add example](/images/remote_add.PNG)
 
 ## **Remove**
 
-Remove the remote named [name]. 
-Removes the named remote-tracking branches and configuration settings.
+Removes the named remote-tracking branches and configuration settings. In the case of services like GitHub it does not delete the repository.
+Just the local link pointing to it.
 
-**Source:** [git reference](https://git-scm.com/docs/git-remote)
+**Source:** [git reference](https://help.github.com/en/github/using-git/adding-a-remote)
 
 
 Example:
 Issue the command:
 
-git rm file.txt
+git remote remove origin  
 
 ![remove example](/images/remove_example.PNG)
 
@@ -87,14 +81,14 @@ This will remove the file named "file.txt".
 
 ## **Show**
 
-Gives some information about the remote.
+Gives various information about the commit tree.
 
 **Source:** [git reference](https://git-scm.com/docs/git-remote)
 
 Example:
 Issue the command:
 
-git show [<options>] [<object>…​]
+git show 
 
 The default shows the log of "HEAD"
 
@@ -103,9 +97,8 @@ The default shows the log of "HEAD"
 
 ## **Status**
 
-Displays paths that have differences between the index file and the current HEAD commit, 
-paths that have differences between the working tree and the index file, 
-and paths in the working tree that are not tracked by Git
+Displays differences between the index file and the current HEAD commit. 
+
 
 **Source:** [git status](https://git-scm.com/docs/git-status)
 
@@ -124,7 +117,7 @@ git status [<options>…​] [--] [<pathspec>…​]
 
 The default development branch. 
 Whenever you create a Git repository, a branch named "master" is created, and becomes the active branch. 
-In most cases, this contains the local development, though that is purely by convention and is not required.
+In most cases, this contains the local development branch.
 
 **Source:** [GitHub glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
 
