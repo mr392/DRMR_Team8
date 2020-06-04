@@ -1,3 +1,6 @@
+# Definition Index
+
+
 
 ## **Checkout**
 
@@ -18,6 +21,35 @@ git checkout [<branch>]
 ![checkout example](/images/checkout_example.PNG)
 
 
+## **Master Branch**
+
+The default development branch. 
+Whenever you create a Git repository, a branch named "master" is created, and becomes the active branch. 
+In most cases, this contains the local development branch.
+
+**Source:** [GitHub glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
+
+Example:
+Issue the command:
+
+git checkout master
+
+to move to the main branch.
+
+![master example](/images/master_example.PNG)
+
+
+## **Pull**
+
+Git pull refers to pulling down changeds and merging them wiht your local copy of the repository. 
+
+**Source:** [GitHub glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
+
+Example: 
+
+Issue the command:
+![pull example](/images/pull_example.PNG)
+
 
 ## **Push**
 
@@ -35,19 +67,9 @@ git push
 
 ![push example](/images/push_example.PNG)
 
-## **Pull**
-
-Git pull refers to pulling down changeds and merging them wiht your local copy of the repository. 
-
-**Source:** [GitHub glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
-
-Example: 
-
-Issue the command:
-![pull example](/images/pull_example.PNG)
 
 
-# Defintions applicable to remotes
+# Defintions applicable to remote repositories
 
 ## **Add**
 
@@ -113,22 +135,6 @@ git status
  
 
 
-## **Master**
-
-The default development branch. 
-Whenever you create a Git repository, a branch named "master" is created, and becomes the active branch. 
-In most cases, this contains the local development branch.
-
-**Source:** [GitHub glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
-
-Example:
-Issue the command:
-
-git checkout master
-
-to move to the main branch.
-
-![master example](/images/master_example.PNG)
 
 
 
