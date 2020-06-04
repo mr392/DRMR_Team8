@@ -1,10 +1,12 @@
 
 ## **Checkout**
 
-The action of updating all or part of the working tree with a tree object or blob from the object database, 
-and updating the index and HEAD if the whole working tree has been pointed at a new branch.
+The act of moving between or creating working branches. If a branch is already created,
+it allows to switch to that branch leaving the checked-in branch untouched. 
+Usually this is the master branch. The -b parameter creates the branch at checkout. Saving a command.
 
-**Source:** [gitglossary](https://git-scm.com/docs/gitglossary)
+
+**Source:** [GitHub glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
 
 
 Example:
@@ -19,13 +21,10 @@ git checkout [<branch>]
 
 ## **Push**
 
-Pushing a branch means to get the branch’s head ref from a remote repository, 
-find out if it is an ancestor to the branch’s local head ref, and in that case, putting all objects, 
-which are reachable from the local head ref, and which are missing from the remote repository, 
-into the remote object database, and updating the remote head ref. 
-If the remote head is not an ancestor to the local head, the push fails.
+Push sends the changes to a remote repository. This is done after the changes are comittedted locally. 
 
-**Source:** [gitglossary](https://git-scm.com/docs/gitglossary)
+
+**Source:** [GitHub glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
 
 
 Example:
@@ -38,9 +37,9 @@ git push
 
 ## **Pull**
 
-Pulling a branch means to fetch it and merge it.
+Git pull refers to pulling down changeds and merging them wiht your local copy of the repository. 
 
-**Source:** [gitglossary](https://git-scm.com/docs/gitglossary)
+**Source:** [GitHub glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
 
 Example: 
 
@@ -52,20 +51,19 @@ Issue the command:
 
 ## **Add**
 
+Used to manage a set of remote repositories. Can be used to list the URL's of of the remote repositories.  
 
-Adds a remote named "<name>" for the repository at <url>. 
-The command git fetch <name> can then be used to create and update remote-tracking branches.
 
 **Source:** [git reference](https://git-scm.com/docs/git-remote)
 
 Example: 
 Issue the command:
 
-git add [file name] or git add "." [For all items]
+git remote -v 
 
-![add example](/images/add_example_2.PNG)
+![Remote add example](/images/remote_add.PNG)
 
-![add example](/images/add_example_1.PNG)
+
 
 
 
@@ -128,7 +126,7 @@ The default development branch.
 Whenever you create a Git repository, a branch named "master" is created, and becomes the active branch. 
 In most cases, this contains the local development, though that is purely by convention and is not required.
 
-**Source:** [gitglossary](https://git-scm.com/docs/gitglossary)
+**Source:** [GitHub glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
 
 Example:
 Issue the command:
