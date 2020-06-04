@@ -61,7 +61,7 @@ Issue the command:
 
 git remote -v 
 
-![Remote add example](/images/remote_add.PNG)
+![Remote add example](/images/remote_add.png)
 
 
 
