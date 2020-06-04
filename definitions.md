@@ -16,7 +16,7 @@ Example:
 
 Issue the command followed by the branch name:
 
-> git checkout [<branch>]
+> git checkout [branch name]
 
 ![checkout example](/images/checkout_example.PNG)
 
