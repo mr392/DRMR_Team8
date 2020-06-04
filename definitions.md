@@ -27,6 +27,16 @@ Issue the command followed by the remote repository URL:
 
 
 
+## **Fork**
+
+A fork is a personal copy of one user's repository that another user has transferred to their own account, and "forking" is the act of making this copy.
+
+Forks enable developers to edit a project without making changes to the original repository. The two repositories are still connected, however, so making a pull request from the original repo to the forked repository will allow the fork to stay synchronized and updated.
+
+![fork example]()
+
+
+
 ## **Checkout**
 
 The act of moving between or creating working branches. If a branch is already created,
