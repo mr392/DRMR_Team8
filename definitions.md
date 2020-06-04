@@ -64,7 +64,7 @@ Issue the command followed by the commit message:
 ![commit example](/images/commit_example.png)
 
 
-## **Git Merge**
+## **Merge**
 
 Merging takes changes from one branch and combines them into another branch.
 

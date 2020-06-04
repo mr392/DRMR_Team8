@@ -3,6 +3,12 @@
 
 To explain the GitFlow we need to define several terms.
 
+- Repository
+- Clone
+- Fork
+- Branch
+- Commit
+- Merge
 - Checkout
 - Push
 - Pull 
