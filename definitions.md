@@ -32,7 +32,7 @@ In most cases, this contains the local development branch.
 Example:
 Issue the command:
 
-git checkout master
+> git checkout master
 
 to move to the main branch.
 
@@ -48,6 +48,9 @@ Git pull refers to pulling down changeds and merging them wiht your local copy o
 Example: 
 
 Issue the command:
+
+> git pull
+
 ![pull example](/images/pull_example.PNG)
 
 
@@ -63,7 +66,7 @@ Example:
 
 Issue the command followed by the branch name:
 
-git push 
+> git push 
 
 ![push example](/images/push_example.PNG)
 
@@ -80,7 +83,7 @@ Used to add the origin of a git repository after specifying the URL
 Example: 
 Issue the command:
 
-git remote add origin "https://github.com/user/repo.git" 
+> git remote add origin "https://github.com/user/repo.git" 
 
 ![Remote add example](/images/remote_add.PNG)
 
@@ -95,7 +98,7 @@ Just the local link pointing to it.
 Example:
 Issue the command:
 
-git remote remove origin  
+> git remote remove origin  
 
 ![remove example](/images/remove_example.PNG)
 
@@ -110,7 +113,7 @@ Gives various information about the commit tree.
 Example:
 Issue the command:
 
-git show 
+> git show 
 
 The default shows the log of "HEAD"
 
@@ -128,7 +131,7 @@ Displays differences between the index file and the current HEAD commit.
 Example:
 Issue the command:
 
-git status  
+> git status  
 
 ![status example](/images/status_example.PNG)
 
