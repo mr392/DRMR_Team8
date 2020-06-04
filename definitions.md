@@ -13,6 +13,20 @@ Example:
 
 
 
+## **Clone**
+
+A clone is a copy of a repository that a user downloads directly onto their computer, and "cloning" is the act of making that copy.
+
+When a developer clones a repository onto their local drive, they can work on their files independently of Github and without having to use the internet. However, the cloned repository is still connected to the remote version, and can be used to push or pull changes to and from the remote whenever its developer goes back online.
+
+Example:
+
+Issue the command followed by the remote repository URL:
+
+![clone example](/images/clone_example.png)
+
+
+
 ## **Checkout**
 
 The act of moving between or creating working branches. If a branch is already created,
