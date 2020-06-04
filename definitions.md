@@ -9,15 +9,14 @@ Through the use of Git repositories, multiple developers can work on a project a
 
 **Source:** [help.github.com](https://help.github.com/en/github/getting-started-with-github/github-glossary)
 
-Example:
-
-
 
 ## **Clone**
 
 A clone is a copy of a repository that a user downloads directly onto their computer, and "cloning" is the act of making that copy.
 
 When a developer clones a repository onto their local drive, they can work on their files independently of Github and without having to use the internet. However, the cloned repository is still connected to the remote version, and can be used to push or pull changes to and from the remote whenever its developer goes back online.
+
+**Source:** [help.github.com](https://help.github.com/en/github/getting-started-with-github/github-glossary)
 
 Example:
 
@@ -26,15 +25,28 @@ Issue the command followed by the remote repository URL:
 ![clone example](/images/clone_example.png)
 
 
-
 ## **Fork**
 
 A fork is a personal copy of one user's repository that another user has transferred to their own account, and "forking" is the act of making this copy.
 
-Forks enable developers to edit a project without making changes to the original repository. The two repositories are still connected, however, so making a pull request from the original repo to the forked repository will allow the fork to stay synchronized and updated.
+Forks enable developers to edit a project without making changes to the original repository. Forked repositories are still connected, however - changes can be compared across forks and pull requests can be created between them.
 
-![fork example]()
+**Source:** [help.github.com](https://help.github.com/en/github/getting-started-with-github/github-glossary)
 
+
+## **Branch**
+
+A branch is a secondary version of a user's repository that has diverged from the primary version, or "master" branch.
+
+While a branch is contained within the whole repository along with the master, changes made to a branch do not impact the master, or any other branches - enabling a developer to work on one without disrupting another. Branches can also be made to merge back into the master, combining several different repositories into one single version.
+
+**Source:** [help.github.com](https://help.github.com/en/github/getting-started-with-github/github-glossary)
+
+Example:
+
+Issue the command followed by the branch name:
+
+![branch example](/images/branch_example.png)
 
 
 ## **Checkout**
