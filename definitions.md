@@ -49,6 +49,22 @@ Issue the command followed by the branch name:
 ![branch example](/images/branch_example.png)
 
 
+## **Commit**
+
+A commit, also known as a revision, is a single change to a file, or set of files.
+
+Each commit that a developer makes is recorded and assigned a commit message that the user types to describe the details of the change. Commits, and their descriptions, allow developers to keep track of the changes made to projects over time.
+
+**Source:** [help.github.com](https://help.github.com/en/github/getting-started-with-github/github-glossary)
+
+Example:
+
+Issue the command followed by the commit message:
+
+![commit example](/images/commit_example.png)
+
+
+
 ## **Checkout**
 
 The act of moving between or creating working branches. If a branch is already created,
