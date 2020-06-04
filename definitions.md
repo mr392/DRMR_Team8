@@ -115,7 +115,7 @@ and paths in the working tree that are not tracked by Git
 Example:
 Issue the command:
 
-git status [<options>…​] [--] [<pathspec>…​]
+git status  
 
 ![status example](/images/status_example.PNG)
 
