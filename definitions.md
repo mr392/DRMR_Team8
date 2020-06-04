@@ -1,4 +1,4 @@
-# Definition Index
+# Glossary
 
 
 
@@ -16,7 +16,7 @@ Example:
 
 Issue the command followed by the branch name:
 
-git checkout [<branch>]
+> git checkout [<branch>]
 
 ![checkout example](/images/checkout_example.PNG)
 
