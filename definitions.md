@@ -66,7 +66,7 @@ Issue the command followed by the commit message:
 
 ## **Merge**
 
-Merging takes changes from one branch and combines them into another branch.
+Merging takes the changes from one branch and combines them into another branch.
 
 Merging can be done to branches either within the same repository or between two connected forks. Merges are frequently done through a pull request on Github or via a computer terminal's command line.
 
