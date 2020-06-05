@@ -10,67 +10,67 @@ Through the use of Git repositories, multiple developers can work on a project a
 **Source:** [help.github.com](https://help.github.com/en/github/getting-started-with-github/github-glossary)
 
 
-## **Clone**
-
-A clone is a copy of a repository that a user downloads directly onto their computer, and "cloning" is the act of making that copy.
-
-When a developer clones a repository onto their local drive, they can work on their files independently of Github and without having to use the internet. However, the cloned repository is still connected to the remote version, and can be used to push or pull changes to and from the remote whenever its developer goes back online.
-
-**Source:** [help.github.com](https://help.github.com/en/github/getting-started-with-github/github-glossary)
-
-Example:
-
-Issue the command followed by the remote repository URL:
-
-![clone example](/images/clone_example.png)
-
-
-## **Fork**
-
-A fork is a personal copy of one user's repository that another user has transferred to their own account, and "forking" is the act of making this copy.
-
-Forks enable developers to edit a project without making changes to the original repository. Forked repositories are still connected, however - changes can be compared across forks and pull requests can be created between them.
-
-**Source:** [help.github.com](https://help.github.com/en/github/getting-started-with-github/github-glossary)
-
-
-## **Branch**
-
-A branch is a secondary version of a user's repository that has diverged from the primary version, or "master" branch.
-
-While a branch is contained within the whole repository along with the master, changes made to a branch do not impact the master, or any other branches - enabling a developer to work on one without disrupting another. Branches can also be made to merge back into the master, combining several different repositories into one single version.
-
-**Source:** [help.github.com](https://help.github.com/en/github/getting-started-with-github/github-glossary)
-
-Example:
-
-Issue the command followed by the branch name:
-
-![branch example](/images/branch_example.png)
-
-
-## **Commit**
-
-A commit, also known as a revision, is a single change to a file, or set of files.
-
-Each commit that a developer makes is recorded and assigned a commit message that the user types to describe the details of the change. Commits, and their descriptions, allow developers to keep track of the changes made to projects over time.
-
-**Source:** [help.github.com](https://help.github.com/en/github/getting-started-with-github/github-glossary)
-
-Example:
-
-Issue the command followed by the commit message:
-
-![commit example](/images/commit_example.png)
-
-
-## **Merge**
-
-Merging takes changes from one branch and combines them into another branch.
-
-Merging can be done to branches either within the same repository or between two connected forks. Merges are frequently done through a pull request on Github or via a computer terminal's command line.
-
-**Source:** [help.github.com](https://help.github.com/en/github/getting-started-with-github/github-glossary)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 ## **Checkout**
