@@ -10,6 +10,7 @@ Through the use of Git repositories, multiple developers can work on a project a
 **Source:** [help.github.com](https://help.github.com/en/github/getting-started-with-github/github-glossary)
 
 
+
 ## **Clone**
 
 A clone is a copy of a repository that a user downloads directly onto their computer, and "cloning" is the act of making that copy.
@@ -71,8 +72,9 @@ Merging takes the changes from one branch and combines them into another branch.
 Merging can be done to branches either within the same repository or between two connected forks. Merges are frequently done through a pull request on Github or via a computer terminal's command line.
 
 **Source:** [help.github.com](https://help.github.com/en/github/getting-started-with-github/github-glossary)
-
-
+=======
+  
+  
 ## **Checkout**
 
 The act of moving between or creating working branches. If a branch is already created,
@@ -209,12 +211,5 @@ Issue the command:
  
 
 
-
-
-
-
-
-
-
-## [return to index](/README.md)
+## [Return to index](/README.md)
 
