@@ -31,7 +31,7 @@ This is to ensure that when the next round of development is to start all the co
 
 ### Uh oh we still have a problem
 In the real world sometimes bugs make it through the testing phase. In this instance Gitflow allows for the creation of a hotfix branch. This the only other time code can be directly branched From or merged to the master branch. Once the hot fix is complete the hotfix will be simulteanously merged onto the development branch as well so that any future development will have all the fixes in place. 
-THe completed model is as follows: 
+The completed model is as follows: 
 
 ![Updated Model](/images/updated.png)   
 > source: [https://nvie.com/posts/a-successful-git-branching-model/](https://nvie.com/posts/a-successful-git-branching-model/)
