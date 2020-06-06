@@ -21,5 +21,6 @@ Once the work is complete it is merged onto the development branch.
 
 ### Staging and testing
 
-Once the code is finalized and ready for release it is moved onto a release branch and whichen then put into a testing environment. This is where other tools suck as Docker can be utilized. # Note to self: add link to Docker from DR  
-
+Once the code is finalized and ready for release it is moved onto a release branch and whichen then put into a testing environment. This is where other tools suck as Docker can be utilized.  
+## Note to self: add link to Docker from DR  
+This testing envrionment either a seperate system or a virtualized one is where any bugs and fixes can be applied before the code is moved into a live production envrionment. If issues are found they can be addressed and the cycle repeated until the devoplment team is ready for for the final GO and this round of development is completed. Only when the release is done is the final code merged back onto the master branch and the development branch. THis is to ensure that when the next round of development is to start all the code is on the development branch.  
