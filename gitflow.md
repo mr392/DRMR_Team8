@@ -13,7 +13,9 @@ The Gitflow method easily scales regardless of team size. Using git, git hub and
 
 ### Don't play with the Master
 
-Driessen's method also relies on the idea of development and staging areas. While code is actively being worked on the development branch essentially becomes the master brancg. Fetaures work is branched off of the developmet branch. Once the work is complete it is merged onto the development branch. 
+Driessen's method also relies on the idea of development and staging areas. While code is actively being worked on the development branch essentially becomes the master brancg. Fetaures work is branched off of the developmet branch. 
+Once the work is complete it is merged onto the development branch. 
+
 ![Feature Branches](/images/GitFlowFeatureBranches.png)   
 > source: [Branches](https://nvie.com/posts/a-successful-git-branching-model/)
 
