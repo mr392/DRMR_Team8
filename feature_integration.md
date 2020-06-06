@@ -12,6 +12,9 @@ Tools suck as Docker and other containerization software allow this processs to 
 > **Source:** [usersnap](https://usersnap.com/blog/docker-for-web-developers)
 
 
+  
+  
+
 **References:** 
 
 [infoworld](https://www.infoworld.com/article/3130670/the-hidden-benefits-of-docker-for-qa.html)
