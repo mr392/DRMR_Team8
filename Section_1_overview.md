@@ -1,4 +1,4 @@
-## Git
+## [Git](/definitions.md)
 
 Git is a version control system (VCS) - a category of software tools that helps software developers manage changes to source codes over time. Git is free, open source, and is the most widely used version control system in the world.
 
