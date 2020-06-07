@@ -86,7 +86,7 @@ Example:
 
 Issue the command followed by branch name to be merged:
 
-![show example](/images/merge_example1.png)
+![show example](/images/merge_example.png)
   
   
 ## **Checkout**
