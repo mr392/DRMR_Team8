@@ -39,10 +39,32 @@ A glossary of key terms and usage.
 
 
 #### [Gitflow](/gitflow.md)
-A branching model that promtoes collaboration and scalability. 
+A branching model that promotes collaboration and scalability. 
 
 =====================================
 #### Changelog
+
+DR - Defined Repository
+
+DR - Defined Clone
+
+DR - Defined Fork
+
+DR - Defined Branch
+
+DR - Defined Commit
+
+DR - Defined Merge
+
+DR - Provided Git Summary
+
+DR - Included Summary of Distributed Version Control
+
+DR - Provided Docker Summary
+
+DR - Provided Automated Testing Summary
+
+DR - General clean-up and fixes
 
 MR - Defined Checkout
 
@@ -64,8 +86,7 @@ MR - Provided Git Flow summary
 
 MR - Provided Continuous integration summary
 
-MR -  Page Navigation
+MR - Page Navigation
 
 MR - General clean-up and fixes
-
 

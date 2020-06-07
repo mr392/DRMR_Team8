@@ -5,7 +5,7 @@
 
 In Git, a repository (also known as a "repo") is a storage space for a development project that contains all of a project's files, as well as a record of each file's revision history.
 
-Through the use of Git repositories, multiple developers can work on a project at the same time - Git lets users create their own personal copies of a project's main repository, edit files indepedently of each other, monitor the updates done by coworkers in other repositories, and merge their separate work into a single version of the project.
+Through the use of Git repositories, multiple developers can work on a project at the same time - Git lets users create their own personal copies of a project's main repository, edit files independently of each other, monitor the updates done by coworkers in other repositories, and merge their separate work into a single version of the project.
 
 **Source:** [help.github.com](https://help.github.com/en/github/getting-started-with-github/github-glossary)
 
@@ -127,7 +127,7 @@ to move to the main branch.
 
 ## **Pull**
 
-Git pull refers to pulling down changeds and merging them wiht your local copy of the repository. 
+Git pull refers to pulling down changes and merging them with your local copy of the repository. 
 
 **Source:** [GitHub glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
 
@@ -142,7 +142,7 @@ Issue the command:
 
 ## **Push**
 
-Push sends the changes to a remote repository. This is done after the changes are comittedted locally. 
+Push sends the changes to a remote repository. This is done after the changes are committed locally. 
 
 
 **Source:** [GitHub glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
@@ -158,7 +158,7 @@ Issue the command followed by the branch name:
 
 
 
-# Defintions applicable to remote repositories
+# Definitions applicable to remote repositories
 
 ## **Add**
 
