@@ -9,12 +9,15 @@ Distributed version control systems such as Git have multiple advantages over al
 - The ability for developers to work offline
 - Eliminating the reliance on a single project backup
 
+![Chart image](/images/git_dvcs.png)
+> **Source:** [Edureka](https://www.edureka.co/blog/what-is-git/)
+
 While there are several platforms for distributed version control, Git stands apart from the rest because of its unique branching model: Git enables developers to create multiple branches of code that can be entirely independent from each other. The creation, merging and deletion of those branches can also be done extremely quickly.
 
 Compared to other systems, Git makes development faster, more reliable, and less prone to errors.
 
-![Chart image](/images/chart.png)
-> **Source:** [Edureka](https://www.edureka.co/blog/what-is-git/)
+![Chart image](/images/git_branching.png)
+> **Source:** [Backlog](https://backlog.com/git-tutorial/branching-workflows/)
 
 
 
