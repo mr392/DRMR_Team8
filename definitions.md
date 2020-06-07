@@ -9,6 +9,11 @@ Through the use of Git repositories, multiple developers can work on a project a
 
 **Source:** [help.github.com](https://help.github.com/en/github/getting-started-with-github/github-glossary)
 
+Example:
+
+Issue the command "git init" to initialize empty Git repository.
+
+![clone example](/images/repo_example.png)
 
 
 ## **Clone**
