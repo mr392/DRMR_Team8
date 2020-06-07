@@ -22,6 +22,22 @@ Compared to other systems, Git makes development faster, more reliable, and less
 
 
 
+
+**References:**
+
+[Opensource](https://opensource.com/resources/what-is-git)
+
+[Atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
+
+[Perforce](https://www.perforce.com/blog/vcs/what-dvcs-anyway)
+
+[Dakota Chambers](https://chambers.io/2018/04/17/git-vs-the-competition.html)
+
+[Git](https://git-scm.com/about)
+
+
+
+
 ## Docker
 
 Docker is a platform that is used to package an application and all of its dependencies together in the form of "containers" - standardized units of software - in order to make sure that the application works seamlessly in any development, testing or production environment.
@@ -44,7 +60,6 @@ Through the use of containerization, Docker lets developers create unique digita
 
 
 
-
 **References:**
 
 [Stackshare](https://stackshare.io/stackups/docker-vs-github)
@@ -56,17 +71,7 @@ Through the use of containerization, Docker lets developers create unique digita
 [Geeks for Geeks](https://www.geeksforgeeks.org/containerization-using-docker/)
 
 
-**References:**
 
-[Opensource](https://opensource.com/resources/what-is-git)
-
-[Atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
-
-[Perforce](https://www.perforce.com/blog/vcs/what-dvcs-anyway)
-
-[Dakota Chambers](https://chambers.io/2018/04/17/git-vs-the-competition.html)
-
-[Git](https://git-scm.com/about)
 
 ## Automated Testing
 
@@ -78,10 +83,10 @@ Github has several automated testing features embedded into its platform: for ex
 
 
 
+
+
 ![Chart image](/images/git_testing.png)
 > **Source:** [Docker](http://www.effectivedevelopment.org/automation/testing.html)
-
-
 
 
 
@@ -110,7 +115,7 @@ Tools suck as Docker and other containerization software allow this processs to 
 
 
   
-  
+
 
 **References:** 
 
