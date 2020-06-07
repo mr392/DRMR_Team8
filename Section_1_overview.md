@@ -1,4 +1,4 @@
-## [Git](/definitions.md)
+## Git
 
 Git is a version control system (VCS) - a category of software tools that helps software developers manage changes to source codes over time. Git is free, open source, and is the most widely used version control system in the world.
 
@@ -119,3 +119,7 @@ Tools suck as Docker and other containerization software allow this processs to 
 [usersnap](https://usersnap.com/blog/docker-for-web-developers)
 
 [Philipp Hauer's Blog ](https://phauer.com/2015/tutorial-continuous-delivery-with-docker-jenkins/)
+
+  
+  
+[Definitions ](/definitions.md)
