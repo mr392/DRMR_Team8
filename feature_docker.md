@@ -1,4 +1,4 @@
-## Git
+## Docker
 
 Docker is a platform that is used to package an application and all of its dependencies together in the form of "containers" - standardized units of software - in order to make sure that the application works seamlessly in any development, testing or production environment.
 
