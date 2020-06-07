@@ -13,7 +13,7 @@ Example:
 
 Issue the command "git init" to initialize empty Git repository.
 
-![clone example](/images/repo_example.png) 
+![clone example](/images/repo_example.png
 
 
 ## **Clone**
