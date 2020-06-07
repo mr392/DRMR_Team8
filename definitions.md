@@ -36,7 +36,7 @@ Forks enable developers to edit a project without making changes to the original
 
 Example: Forked repository in GitHub:
 
-![fork example](/images/fork_example.png)
+![fork example](/images/fork_example.png) 
 
 
 ## **Branch**
