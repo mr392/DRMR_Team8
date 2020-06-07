@@ -35,4 +35,8 @@ The completed model is as follows:
 
 ![Updated Model](/images/updated.png)   
 > source: [https://nvie.com/posts/a-successful-git-branching-model/](https://nvie.com/posts/a-successful-git-branching-model/)
-   
+
+=====================================
+### [Return to index](/README.md)
+### [Definitions](/definitions.md)
+### [Overview](/Section_1_overview.md)

@@ -44,4 +44,28 @@ A branching model that promtoes collaboration and scalability.
 =====================================
 #### Changelog
 
+MR - Defined Checkout
+
+MR - Defined Master Branch
+
+MR - Defined Pull
+
+MR - Defined Push
+
+MR - Defined Remote Add
+
+MR - Defined Remote Remove
+
+MR - Defined Remote Show
+
+MR - Defined status
+
+MR - Provided Git Flow summary
+
+MR - Provided Continuous integration summary
+
+MR -  Page Navigation
+
+MR - General clean-up and fixes
+
 
