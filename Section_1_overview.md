@@ -120,6 +120,7 @@ Tools suck as Docker and other containerization software allow this processs to 
 
 [Philipp Hauer's Blog ](https://phauer.com/2015/tutorial-continuous-delivery-with-docker-jenkins/)
 
-  
-  
-[Definitions ](/definitions.md)
+=====================================
+## [Return to index](/README.md)
+## [Gitflow](/gitflow.md) 
+## [Definitions](/definitions.md)
