@@ -34,6 +34,10 @@ Forks enable developers to edit a project without making changes to the original
 
 **Source:** [help.github.com](https://help.github.com/en/github/getting-started-with-github/github-glossary)
 
+Example: Forked repository in GitHub:
+
+![fork example](/images/fork_example.png)
+
 
 ## **Branch**
 
