@@ -1,8 +1,10 @@
 # DRMR_Team8 
 
 ### Team Members
->Doug Rizio
->Mike Rock
+
+Doug Rizio
+
+Mike Rock
 
 
 
