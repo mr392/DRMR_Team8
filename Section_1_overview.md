@@ -14,10 +14,26 @@ Distributed version control systems such as Git have multiple advantages over al
 
 While there are several platforms for distributed version control, Git stands apart from the rest because of its unique branching model: Git enables developers to create multiple branches of code that can be entirely independent from each other. The creation, merging and deletion of those branches can also be done extremely quickly.
 
-Compared to other systems, Git makes development faster, more reliable, and less prone to errors.
+Compared to other systems, Git makes development faster, more reliable, and less prone to errors. The use of Git allows for the highly efficient construction of software applications by small teams as well as large ones, and the employment of development teams with a mastery of Git can give any company the edge over its competition.
 
 ![Chart image](/images/git_branching.png)
 > **Source:** [Backlog](https://www.edureka.co/blog/what-is-git/)
+
+
+
+
+
+**References:**
+
+[Opensource](https://opensource.com/resources/what-is-git)
+
+[Atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
+
+[Perforce](https://www.perforce.com/blog/vcs/what-dvcs-anyway)
+
+[Dakota Chambers](https://chambers.io/2018/04/17/git-vs-the-competition.html)
+
+[Git](https://git-scm.com/about)
 
 
 
@@ -35,11 +51,10 @@ Some of the advantages of using containers over virtual machines are:
 - Containers are lighter and smaller
 - Better resource utilization compared to virtual machines
 
-Through the use of containerization, Docker lets developers create unique environments to explore the capabilities of their software.
+Through the use of containerization, Docker lets developers create unique digital environments to explore the capabilities of their software. Many developers utilize Git and Docker in tandem with each other, relying on Git to construct their codes and then deploying their repositories into Docker containers in order to check how they operate. Without programs such as Docker, some companies may struggle to quickly roll out updates in code that work correctly across all software and operating systems, web browsers, devices, etc. - but those who are able to leverage containerization tools to their advantage have an easier time applying their code to to different platforms.
 
 ![Chart image](/images/git_docker.png)
 > **Source:** [Docker](https://www.docker.com/resources/what-container)
-
 
 
 
@@ -56,17 +71,7 @@ Through the use of containerization, Docker lets developers create unique enviro
 [Geeks for Geeks](https://www.geeksforgeeks.org/containerization-using-docker/)
 
 
-**References:**
 
-[Opensource](https://opensource.com/resources/what-is-git)
-
-[Atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
-
-[Perforce](https://www.perforce.com/blog/vcs/what-dvcs-anyway)
-
-[Dakota Chambers](https://chambers.io/2018/04/17/git-vs-the-competition.html)
-
-[Git](https://git-scm.com/about)
 
 ## Automated Testing
 
@@ -74,14 +79,14 @@ Automated Testing is the process of allowing software to detect and make changes
 
 Automated Testing is often a key component of continuous integration, wherein developers make small, frequent updates to their shared repositories to minimize large changes to code infrastructure. Each integration made can then be verified by an automated build and automated tests.
 
-Github automatically has several automated features embedded into its platform: for example, the detection of merge conflicts during pull requests for new commits.
+Github has several automated testing features embedded into its platform: for example, the detection of merge conflicts during pull requests for new commits. If developers were unable to rely on platforms with the ability to catch these issues automatically, the entire development process would rely on manual error correction and become exceedingly more difficult as a result. 
+
+
 
 
 
 ![Chart image](/images/git_testing.png)
 > **Source:** [Docker](http://www.effectivedevelopment.org/automation/testing.html)
-
-
 
 
 
@@ -110,7 +115,7 @@ Tools suck as Docker and other containerization software allow this processs to 
 
 
   
-  
+
 
 **References:** 
 
@@ -119,3 +124,8 @@ Tools suck as Docker and other containerization software allow this processs to 
 [usersnap](https://usersnap.com/blog/docker-for-web-developers)
 
 [Philipp Hauer's Blog ](https://phauer.com/2015/tutorial-continuous-delivery-with-docker-jenkins/)
+
+=====================================
+## [Return to index](/README.md)
+## [Gitflow](/gitflow.md) 
+## [Definitions](/definitions.md)
