@@ -9,6 +9,11 @@ Through the use of Git repositories, multiple developers can work on a project a
 
 **Source:** [help.github.com](https://help.github.com/en/github/getting-started-with-github/github-glossary)
 
+Example:
+
+Issue the command "git init" to initialize empty Git repository.
+
+![clone example](/images/repo_example.png)
 
 
 ## **Clone**
@@ -33,6 +38,10 @@ A fork is a personal copy of one user's repository that another user has transfe
 Forks enable developers to edit a project without making changes to the original repository. Forked repositories are still connected, however - changes can be compared across forks and pull requests can be created between them.
 
 **Source:** [help.github.com](https://help.github.com/en/github/getting-started-with-github/github-glossary)
+
+Example: Forked repository in GitHub:
+
+![fork example](/images/fork_example.png)
 
 
 ## **Branch**
@@ -72,7 +81,12 @@ Merging takes the changes from one branch and combines them into another branch.
 Merging can be done to branches either within the same repository or between two connected forks. Merges are frequently done through a pull request on Github or via a computer terminal's command line.
 
 **Source:** [help.github.com](https://help.github.com/en/github/getting-started-with-github/github-glossary)
-=======
+
+Example:
+
+Issue the command followed by branch name to be merged:
+
+![show example](/images/merge_example.png)
   
   
 ## **Checkout**
@@ -83,7 +97,6 @@ Usually this is the master branch. The -b parameter creates the branch at checko
 
 
 **Source:** [GitHub glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
-
 
 Example:
 
@@ -212,4 +225,5 @@ Issue the command:
 
 
 ## [Return to index](/README.md)
+
 
