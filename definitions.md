@@ -81,7 +81,12 @@ Merging takes the changes from one branch and combines them into another branch.
 Merging can be done to branches either within the same repository or between two connected forks. Merges are frequently done through a pull request on Github or via a computer terminal's command line.
 
 **Source:** [help.github.com](https://help.github.com/en/github/getting-started-with-github/github-glossary)
-=======
+
+Example:
+
+Issue the command followed by branch name to be merged:
+
+![show example](/images/merge_example.PNG)
   
   
 ## **Checkout**
@@ -92,7 +97,6 @@ Usually this is the master branch. The -b parameter creates the branch at checko
 
 
 **Source:** [GitHub glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
-
 
 Example:
 
