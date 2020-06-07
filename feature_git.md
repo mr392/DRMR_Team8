@@ -17,7 +17,7 @@ While there are several platforms for distributed version control, Git stands ap
 Compared to other systems, Git makes development faster, more reliable, and less prone to errors.
 
 ![Chart image](/images/git_branching.png)
-> **Source:** [Backlog](https://backlog.com/git-tutorial/branching-workflows/)
+> **Source:** [Backlog](https://www.edureka.co/blog/what-is-git/)
 
 
 
