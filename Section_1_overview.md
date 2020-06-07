@@ -119,3 +119,7 @@ Tools suck as Docker and other containerization software allow this processs to 
 [usersnap](https://usersnap.com/blog/docker-for-web-developers)
 
 [Philipp Hauer's Blog ](https://phauer.com/2015/tutorial-continuous-delivery-with-docker-jenkins/)
+
+  
+  
+[Definitions ](/definitions.md)
