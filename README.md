@@ -45,7 +45,7 @@ A branching model that promotes collaboration and scalability.
 #### [Additional Reading and References Used](/references.md)
 
 =====================================
-#### Changelog
+## Changelog
 
 DR - Defined Repository
 
