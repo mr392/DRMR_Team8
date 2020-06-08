@@ -41,6 +41,9 @@ A glossary of key terms and usage.
 #### [Gitflow](/gitflow.md)
 A branching model that promotes collaboration and scalability. 
 
+
+#### [Additiona reading and references ](/reference.md)
+
 =====================================
 #### Changelog
 
