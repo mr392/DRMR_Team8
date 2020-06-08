@@ -58,11 +58,11 @@ DR - Defined Merge
 
 DR - Provided Git Summary
 
-DR - Included Summary of Distributed Version Control
-
 DR - Provided Docker Summary
 
 DR - Provided Automated Testing Summary
+
+DR - Created References Page
 
 DR - General clean-up and fixes
 
