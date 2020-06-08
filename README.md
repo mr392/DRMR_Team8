@@ -42,7 +42,7 @@ A glossary of key terms and usage.
 A branching model that promotes collaboration and scalability. 
 
 
-#### [Additiona reading and references ](/reference.md)
+#### [Additiona reading and references ](/references.md)
 
 =====================================
 #### Changelog
