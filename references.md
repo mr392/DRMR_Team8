@@ -39,4 +39,5 @@
 
 [Philipp Hauer's Blog](https://phauer.com/2015/tutorial-continuous-delivery-with-docker-jenkins/)
 
-#### [Back to Index](/README.md)
+=====================================
+### [Return to index](/README.md)
