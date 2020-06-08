@@ -13,7 +13,7 @@ Mike Rock
 To gain a complete understanding of Git, what it is used for, and how it is used, we need to understand certain concepts and define several terms.
 
 
-#### [Section 1](Section_1_overview.md)
+#### [Overview](Section_1_overview.md)
 
 A general overview of the core topics.
 - Git
